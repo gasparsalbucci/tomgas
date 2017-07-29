@@ -1,0 +1,10 @@
+{
+    "name": "tomgas",
+    "version": "0.0.1",
+    "description": "Reserva tus salas de ensayo.",
+    "main": "server.js",
+    "dependencies": {
+        "express": "latest",
+        "mongoose": "latest"
+	}
+}
